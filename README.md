@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="TU_BANNER_AQUI" width="100%" />
+  <img src="https://i.pinimg.com/1200x/54/ff/af/54ffafb842c377767955b229a5d18730.jpg" width="100%" />
 </p>
 
 <h1 align="center">Tomas</h1>
@@ -33,8 +33,14 @@
 </p>
 
 <p align="center">
-  <strong>Database / Other</strong><br/>
+  <strong>Databases</strong><br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>Tools</strong><br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -43,46 +49,25 @@
 
 <h2 align="center">Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
----
-
-<h2 align="center">Contribution Grid</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-<h2 align="center">Projects</h2>
-<ul>
-  <li><b>crud-django</b> — CRUD con login y protección de rutas.</li>
-  <li><b>project-name</b> — descripción corta.</li>
-  <li><b>project-name</b> — descripción corta.</li>
-</ul>
-
----
-
 <h2 align="center">Connect</h2>
 <p align="center">
-  <a href="TU_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:TU_EMAIL">Email</a> •
-  <a href="TU_PORTAFOLIO">Portfolio</a>
+  <a href="TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="TU_PORTAFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
-
-<!--
-**tomas1483369/tomas1483369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
