@@ -19,7 +19,7 @@
 
 ---
 
-<h2 align="center">🔵 SYSTEM_OVERVIEW // SOBRE MÍ</h2>
+<h2 align="center">🔵 SOBRE MÍ</h2>
 
 <p align="center">
   No soy solo un programador; soy un <b>desarrollador</b>. Mi arquitectura lógica está diseñada para analizar, levantar requisitos y desplegar soluciones. Construyo interfaces y sistemas con un enfoque funcional, visual y escalable.
@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align="center">💠 LOADED_MODULES // TECNOLOGÍAS</h2>
+<h2 align="center">💠 TECNOLOGÍAS</h2>
 
 <p align="center">
   <strong>FRONTEND_CORE</strong><br/><br/>
@@ -67,7 +67,7 @@
 
 ---
 
-<h2 align="center">📊 CORE_FOCUS // ENFOQUE</h2>
+<h2 align="center">ENFOQUE</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Analysis-00BFFF?style=for-the-badge&logo=files&logoColor=white" />
