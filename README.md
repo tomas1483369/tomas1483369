@@ -76,6 +76,9 @@
   <img src="https://img.shields.io/badge/Solutions-00BFFF?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
+ <p align="center">
+  <i>"The future is not written. We build it."</i>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=footer" width="100%" />
 </p>
